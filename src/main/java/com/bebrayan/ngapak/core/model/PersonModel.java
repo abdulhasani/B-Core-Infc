@@ -1,4 +1,4 @@
-package com.bebaryan.b.core.model;
+package com.bebrayan.ngapak.core.model;
 
 /**
  *
